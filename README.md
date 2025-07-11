@@ -3,9 +3,9 @@
 This repository demonstrates how to build a real-time, multi-stream video analytics pipeline using **Intel® DL Streamer** and **OpenVINO™ Toolkit**. The project supports object detection and classification on Intel CPU and GPU hardware, with use cases tailored to smart city surveillance such as **Mahakumbh 2025** and **ICC Tournaments**.
 
 # Project By-
-[**Tanish Das**](https://github.com/dastanish2256) (tdas2@gitam.in)
-[**Piyush Ram Kimidi**](https://github.com/piyushram612)(pkimidi@gitam.in) 
-[**Harshith Kakkireni**](https://github.com/kakkireni-harshith) (hkakkire@gitam.in)
+[**Tanish Das**](https://github.com/dastanish2256) (tdas2@gitam.in)  
+[**Piyush Ram Kimidi**](https://github.com/piyushram612)(pkimidi@gitam.in)   
+[**Harshith Kakkireni**](https://github.com/kakkireni-harshith) (hkakkire@gitam.in)  
 
 ---
 
