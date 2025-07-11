@@ -778,8 +778,7 @@ After completion, you will have:
 - ✅ Working detection + classification pipeline
 - ✅ Performance benchmarks for CPU and GPU
 - ✅ Multi-stream scalability analysis
-- ✅ Bottleneck identification
-- ✅ 3-page technical report
+- ✅ Bottleneck identification  
 - ✅ Performance visualization charts
 
 ## Expected Outcomes
@@ -868,8 +867,7 @@ By completing this project, you will gain expertise in:
 - [ ] Bottleneck analysis report
 - [ ] 3-page technical report
 - [ ] Source code with documentation
-- [ ] Test results and charts
-- [ ] Working demo video (optional)
+- [ ] Test results and charts  
 
 ## Additional Enhancements (Optional)
 
