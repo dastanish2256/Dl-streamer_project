@@ -5,7 +5,7 @@ This repository demonstrates how to build a real-time, multi-stream video analyt
 # Project By-
 [**Tanish Das**](https://github.com/dastanish2256) (tdas2@gitam.in)  
 [**Piyush Ram Kimidi**](https://github.com/piyushram612)(pkimidi@gitam.in)   
-[**Harshith Kakkireni**](https://github.com/kakkireni-harshith) (hkakkire@gitam.in)  
+[**Kakkireni Harshith**](https://github.com/kakkireni-harshith) (hkakkire@gitam.in)  
 
 ---
 
@@ -27,7 +27,7 @@ This repository demonstrates how to build a real-time, multi-stream video analyt
 
 ## 📘 Project Overview
 
-Modern cities and event venues require scalable AI video analytics for real-time monitoring. Manual camera feed analysis is inefficient when dealing with dozens or hundreds of streams. This project implements a **GStreamer-based pipeline** capable of decoding, detecting, and classifying objects using OpenVINO-optimized models, running across Intel hardware.
+Modern cities and event venues require scalable AI video analytics for real-time monitoring. Manual camera feed analysis is inefficient when dealing with dozens or hundreds of streams. This project implements a **GStreamer-based pipeline** capable of decoding, detecting, and classifying objects using OpenVINO models, running across Intel hardware.
 
 ---
 
